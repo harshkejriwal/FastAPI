@@ -1,4 +1,3 @@
-from re import U
 from fastapi import APIRouter
 from config.db import conn
 from models.index import users
